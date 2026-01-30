@@ -13,8 +13,6 @@ It contain annotations about 6 different ECGs abnormalities:
 - atrial fibrillation (AF); and,
 - sinus tachycardia (ST).
 
-Companion python scripts are available in:
-https://github.com/antonior92/automatic-ecg-diagnosis
 
 --------
 
