@@ -31,8 +31,7 @@ Bibtex:
 
 ## Requirements
 
-This code was tested on Python 3 with Tensorflow `2.2`. There is an older branch ([`tensorflow-v1`](https://github.com/antonior92/automatic-ecg-diagnosis/tree/tensorflow-v1)) that 
-contain the code implementation for Tensorflow `1.15`.
+This code was tested on Python 3 with Tensorflow `2.2`. There is an older branch that contain the code implementation for Tensorflow `1.15`.
 
 **For pytorch users:** If you are interested in a pytorch implementation, take a look in the repository: https://github.com/antonior92/ecg-age-prediction. 
 There we provide a implementation in PyTorch of the same resnet-based model. The problem there is the age prediction from the ECG, nontheless simple modifications should suffice for dealing with abnormality classification.
